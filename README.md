@@ -1,1 +1,1 @@
-# 12Days-of-PowerBI-Projects
+# 12PowerBI-Projects
