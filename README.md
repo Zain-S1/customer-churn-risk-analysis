@@ -8,6 +8,7 @@ The objective is to design a decision-focused Business Intelligence dashboard th
 * Measure overall churn rate and revenue at risk
 * Identify the strongest churn drivers
 * Segment customers based on behavioral risk indicators
+* Prioritize retention efforts using data-driven insights
 
 ## 🔎 Key Insights
 * Churn risk is significantly higher among **inactive customers**.
