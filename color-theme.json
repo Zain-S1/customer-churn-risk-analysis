@@ -1,1 +1,14 @@
-﻿{"name":"Custom","dataColors":["#FFFFFF","#404040","#4381AB","#00B5CC","#978FC7","#765D69","#F1828D","#FAD859"],"bad":"#EC644B","neutral":"#FAD859","good":"#7ABC7A","center":"#FAD859","maximum":"#4381AB"}
+﻿{"name":"Custom",
+   "dataColors":[
+     "#2C3E50",
+     "#57687C",
+     "#B4C7DD",
+     "#F7CAC9",
+     "#926B6A",
+     "#333333",
+     "#5C5C5C",
+     "#F2F2F2",
+     "#E8E8E8",
+     "#BFBFBF"
+   ],
+ }
