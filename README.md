@@ -19,16 +19,5 @@ The analysis combines exploratory data analysis, feature engineering, and KPI-dr
 * Revenue at risk is most concentrated in **Germany**.
 * Risk segments combining behavioral indicators provide stronger prioritization than standalone demographics.
 
-## 🧠 Analytical Approach
-#### 1️⃣ Exploratory Analysis
-- Notebook: [`End-to-End Churn Analysis`](end-to-end-churn-analysis.ipynb)
-#### 2️⃣ Feature Engineering
-Created behavioral flags:
-* `single_product_flag`
-* `low_engagement_risk_flag`
-* `high_value_risk_flag`
-These composite indicators strengthened churn signal detection compared to raw attributes alone.
-#### 3️⃣ Risk Segmentation
-
 ## 📈 Outcome
 The final dashboard provides a clear view of churn concentration, financial exposure, and actionable customer segments, enabling targeted retention strategies and executive-level monitoring.
