@@ -15,3 +15,9 @@ The objective is to design a decision-focused Business Intelligence dashboard th
 * Churn Rate (%)
 * Revenue at Risk
 
+## 🔎 Key Insights
+* Churn risk is significantly higher among **inactive customers**.
+* Customers with a **single product** show elevated churn probability.
+* **High-value customers** represent substantial financial exposure when churn occurs.
+* Revenue at risk is most concentrated in **Germany**.
+* Risk segments combining behavioral indicators provide stronger prioritization than standalone demographics.
