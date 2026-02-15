@@ -18,6 +18,7 @@ The objective is to design a decision-focused Business Intelligence dashboard th
 
 ## 🧠 Analytical Approach
 #### 1️⃣ Exploratory Analysis
+- Notebook: [`End-to-End Churn Analysis`](end-to-end-churn-analysis.ipynb)
 #### 2️⃣ Feature Engineering
 Created behavioral flags:
 * `single_product_flag`
