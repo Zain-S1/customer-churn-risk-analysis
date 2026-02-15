@@ -21,3 +21,13 @@ The objective is to design a decision-focused Business Intelligence dashboard th
 * **High-value customers** represent substantial financial exposure when churn occurs.
 * Revenue at risk is most concentrated in **Germany**.
 * Risk segments combining behavioral indicators provide stronger prioritization than standalone demographics.
+
+## 🧠 Analytical Approach
+#### 1️⃣ Exploratory Analysis
+#### 2️⃣ Feature Engineering
+Created behavioral flags:
+* `single_product_flag`
+* `low_engagement_risk_flag`
+* `high_value_risk_flag`
+These composite indicators strengthened churn signal detection compared to raw attributes alone.
+#### 3️⃣ Risk Segmentation
