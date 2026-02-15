@@ -25,3 +25,6 @@ Created behavioral flags:
 * `high_value_risk_flag`
 These composite indicators strengthened churn signal detection compared to raw attributes alone.
 #### 3️⃣ Risk Segmentation
+
+## 📈 Outcome
+The final dashboard provides a clear view of churn concentration, financial exposure, and actionable customer segments, enabling targeted retention strategies and executive-level monitoring.
