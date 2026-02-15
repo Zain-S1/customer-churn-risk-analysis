@@ -9,3 +9,9 @@ The objective is to design a decision-focused Business Intelligence dashboard th
 * Identify the strongest churn drivers
 * Segment customers based on behavioral risk indicators
 
+## 📌 Key KPIs
+* Total Customers
+* Churned Customers
+* Churn Rate (%)
+* Revenue at Risk
+
